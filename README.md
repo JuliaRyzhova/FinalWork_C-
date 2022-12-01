@@ -68,4 +68,4 @@
 
 Алгоритм работы представлен в блок-схеме ниже:
 
-![Block-diagram](https://github.com/JuliaRyzhova/ResultWork_Block_1_GB/blob/main/Диаграмма%20без%20названия.drawio.png)
+![Block-diagram](https://ibb.co/vJXBM8g)
