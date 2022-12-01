@@ -1,0 +1,4 @@
+.vscode/
+*.csproj
+[Bb]in/
+[Oo]bj/
